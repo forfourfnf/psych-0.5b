@@ -1,3 +1,7 @@
+dastage
+eddsworld
+eddsworld-tord
+house
 stage
 spooky
 philly
@@ -6,6 +10,4 @@ mall
 mallEvil
 school
 schoolEvil
-eddsworld
-eddsworld-tord
 uber

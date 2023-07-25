@@ -1,4 +1,11 @@
 stage
+spooky
+philly
+limo
+mall
+mallEvil
+school
+schoolEvil
 eddsworld
 eddsworld-tord
 uber
